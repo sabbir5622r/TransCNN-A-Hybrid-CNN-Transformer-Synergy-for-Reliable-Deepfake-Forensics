@@ -1,0 +1,1 @@
+# TransCNN-A-Hybrid-CNN-Transformer-Synergy-for-Reliable-Deepfake-Forensics
